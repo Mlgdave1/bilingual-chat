@@ -1,0 +1,54 @@
+{
+  "header": {
+    "openApp": "App Openen"
+  },
+  "hero": {
+    "title": "Doorbreek Taalbarrières",
+    "subtitle": "Wereldwijd",
+    "description": "Verbind met iedereen, overal. Direct AI-aangedreven vertalingen in meerdere talen.",
+    "cta": "Begin met Chatten",
+    "comingSoon": "Meer komt binnenkort..."
+  },
+  "features": {
+    "title": "Waarom BilingualChat Kiezen?",
+    "items": {
+      "languages": {
+        "title": "11+ Talen",
+        "description": "Ondersteuning voor belangrijke wereldtalen en meer komt binnenkort."
+      },
+      "speed": {
+        "title": "Bliksemssnel",
+        "description": "Berichten worden direct vertaald terwijl je typt."
+      },
+      "natural": {
+        "title": "Natuurlijke Gesprekken",
+        "description": "AI-aangedreven vertalingen die context en toon behouden."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Verbind Zonder Grenzen",
+    "items": {
+      "global": {
+        "title": "Globale Communicatie",
+        "description": "Chat met iedereen, ongeacht hun moedertaal."
+      },
+      "business": {
+        "title": "Zakelijk & Persoonlijk",
+        "description": "Perfect voor zowel professionele als persoonlijke communicatie."
+      },
+      "privacy": {
+        "title": "Privé & Veilig",
+        "description": "Je gesprekken zijn privé en beschermd."
+      }
+    }
+  },
+  "cta": {
+    "title": "Begin Vandaag met het Doorbreken van Taalbarrières",
+    "description": "Sluit je aan bij duizenden gebruikers die al via talen communiceren met BilingualChat.",
+    "button": "Probeer Nu"
+  },
+  "footer": {
+    "rights": "Alle rechten voorbehouden."
+  }
+}

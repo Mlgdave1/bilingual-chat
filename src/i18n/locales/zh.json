@@ -1,0 +1,54 @@
+{
+  "header": {
+    "openApp": "打开应用"
+  },
+  "hero": {
+    "title": "打破语言障碍",
+    "subtitle": "全球化",
+    "description": "随时随地与任何人联系。多语言即时AI驱动翻译。",
+    "cta": "开始聊天",
+    "comingSoon": "更多即将推出..."
+  },
+  "features": {
+    "title": "为什么选择BilingualChat？",
+    "items": {
+      "languages": {
+        "title": "11+种语言",
+        "description": "支持主要世界语言，更多语言即将推出。"
+      },
+      "speed": {
+        "title": "闪电般速度",
+        "description": "输入时即时翻译消息。"
+      },
+      "natural": {
+        "title": "自然对话",
+        "description": "AI驱动的翻译保持上下文和语气。"
+      }
+    }
+  },
+  "benefits": {
+    "title": "无界连接",
+    "items": {
+      "global": {
+        "title": "全球交流",
+        "description": "与任何人聊天，不受母语限制。"
+      },
+      "business": {
+        "title": "商务和个人",
+        "description": "完美适用于专业和个人交流。"
+      },
+      "privacy": {
+        "title": "私密且安全",
+        "description": "您的对话是私密且受保护的。"
+      }
+    }
+  },
+  "cta": {
+    "title": "今天就开始打破语言障碍",
+    "description": "加入数千名已经使用BilingualChat跨语言交流的用户。",
+    "button": "立即尝试"
+  },
+  "footer": {
+    "rights": "版权所有。"
+  }
+}

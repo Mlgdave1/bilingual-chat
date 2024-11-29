@@ -1,0 +1,54 @@
+{
+  "header": {
+    "openApp": "App Öffnen"
+  },
+  "hero": {
+    "title": "Sprachbarrieren Überwinden",
+    "subtitle": "Weltweit",
+    "description": "Verbinden Sie sich mit jedem, überall. KI-gestützte Sofortübersetzungen in mehreren Sprachen.",
+    "cta": "Jetzt Chatten",
+    "comingSoon": "Mehr in Kürze..."
+  },
+  "features": {
+    "title": "Warum BilingualChat?",
+    "items": {
+      "languages": {
+        "title": "11+ Sprachen",
+        "description": "Unterstützung für wichtige Weltsprachen und mehr in Kürze."
+      },
+      "speed": {
+        "title": "Blitzschnell",
+        "description": "Nachrichten werden sofort während des Tippens übersetzt."
+      },
+      "natural": {
+        "title": "Natürliche Gespräche",
+        "description": "KI-gestützte Übersetzungen, die Kontext und Ton beibehalten."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Verbindung Ohne Grenzen",
+    "items": {
+      "global": {
+        "title": "Globale Kommunikation",
+        "description": "Chatten Sie mit jedem, unabhängig von der Muttersprache."
+      },
+      "business": {
+        "title": "Geschäftlich & Privat",
+        "description": "Perfekt für berufliche und private Kommunikation."
+      },
+      "privacy": {
+        "title": "Privat & Sicher",
+        "description": "Ihre Gespräche sind privat und geschützt."
+      }
+    }
+  },
+  "cta": {
+    "title": "Beginnen Sie Heute, Sprachbarrieren zu Überwinden",
+    "description": "Schließen Sie sich Tausenden von Nutzern an, die bereits über Sprachen hinweg mit BilingualChat kommunizieren.",
+    "button": "Jetzt Ausprobieren"
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

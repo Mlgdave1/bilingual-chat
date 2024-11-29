@@ -1,0 +1,54 @@
+{
+  "header": {
+    "openApp": "アプリを開く"
+  },
+  "hero": {
+    "title": "言語の壁を破る",
+    "subtitle": "グローバルに",
+    "description": "どこでも誰とでもつながる。複数言語でのAI駆動の即時翻訳。",
+    "cta": "チャットを始める",
+    "comingSoon": "近日公開予定..."
+  },
+  "features": {
+    "title": "BilingualChatを選ぶ理由",
+    "items": {
+      "languages": {
+        "title": "11+言語",
+        "description": "主要な世界言語をサポート、さらに追加予定。"
+      },
+      "speed": {
+        "title": "超高速",
+        "description": "入力中にメッセージをリアルタイムで翻訳。"
+      },
+      "natural": {
+        "title": "自然な会話",
+        "description": "文脈とトーンを維持するAI翻訳。"
+      }
+    }
+  },
+  "benefits": {
+    "title": "境界のないつながり",
+    "items": {
+      "global": {
+        "title": "グローバルコミュニケーション",
+        "description": "母語に関係なく、誰とでもチャット。"
+      },
+      "business": {
+        "title": "ビジネスと個人用",
+        "description": "プロフェッショナルと個人的なコミュニケーションに最適。"
+      },
+      "privacy": {
+        "title": "プライベートで安全",
+        "description": "会話は非公開で保護されています。"
+      }
+    }
+  },
+  "cta": {
+    "title": "今日から言語の壁を破る",
+    "description": "BilingualChatで既に言語を超えてつながっている数千人のユーザーに参加しましょう。",
+    "button": "今すぐ試す"
+  },
+  "footer": {
+    "rights": "全著作権所有。"
+  }
+}

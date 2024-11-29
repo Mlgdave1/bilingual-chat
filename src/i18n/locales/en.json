@@ -1,0 +1,54 @@
+{
+  "header": {
+    "openApp": "Open App"
+  },
+  "hero": {
+    "title": "Break Language Barriers",
+    "subtitle": "Globally",
+    "description": "Connect with anyone, anywhere. Instant AI-powered translations across multiple languages.",
+    "cta": "Start Chatting",
+    "comingSoon": "More coming soon..."
+  },
+  "features": {
+    "title": "Why Choose BilingualChat?",
+    "items": {
+      "languages": {
+        "title": "11+ Languages",
+        "description": "Support for major world languages with more coming soon."
+      },
+      "speed": {
+        "title": "Lightning Fast",
+        "description": "Messages are translated instantly as you type."
+      },
+      "natural": {
+        "title": "Natural Conversations",
+        "description": "AI-powered translations that maintain context and tone."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Connect Without Boundaries",
+    "items": {
+      "global": {
+        "title": "Global Communication",
+        "description": "Chat with anyone, regardless of their native language."
+      },
+      "business": {
+        "title": "Business & Personal",
+        "description": "Perfect for both professional and personal communication."
+      },
+      "privacy": {
+        "title": "Private & Secure",
+        "description": "Your conversations are private and protected."
+      }
+    }
+  },
+  "cta": {
+    "title": "Start Breaking Language Barriers Today",
+    "description": "Join thousands of users who are already connecting across languages with BilingualChat.",
+    "button": "Try It Now"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

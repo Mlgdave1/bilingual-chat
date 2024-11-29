@@ -1,0 +1,54 @@
+{
+  "header": {
+    "openApp": "Abrir App"
+  },
+  "hero": {
+    "title": "Quebre as Barreiras Linguísticas",
+    "subtitle": "Globalmente",
+    "description": "Conecte-se com qualquer pessoa, em qualquer lugar. Traduções instantâneas alimentadas por IA em vários idiomas.",
+    "cta": "Começar a Conversar",
+    "comingSoon": "Mais em breve..."
+  },
+  "features": {
+    "title": "Por Que Escolher o BilingualChat?",
+    "items": {
+      "languages": {
+        "title": "11+ Idiomas",
+        "description": "Suporte para os principais idiomas mundiais e mais em breve."
+      },
+      "speed": {
+        "title": "Velocidade Relâmpago",
+        "description": "As mensagens são traduzidas instantaneamente enquanto você digita."
+      },
+      "natural": {
+        "title": "Conversas Naturais",
+        "description": "Traduções IA que mantêm contexto e tom."
+      }
+    }
+  },
+  "benefits": {
+    "title": "Conecte-se Sem Fronteiras",
+    "items": {
+      "global": {
+        "title": "Comunicação Global",
+        "description": "Converse com qualquer pessoa, independente do idioma nativo."
+      },
+      "business": {
+        "title": "Negócios e Pessoal",
+        "description": "Perfeito para comunicação profissional e pessoal."
+      },
+      "privacy": {
+        "title": "Privado e Seguro",
+        "description": "Suas conversas são privadas e protegidas."
+      }
+    }
+  },
+  "cta": {
+    "title": "Comece a Quebrar as Barreiras Linguísticas Hoje",
+    "description": "Junte-se a milhares de usuários que já se conectam através de idiomas com BilingualChat.",
+    "button": "Experimente Agora"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  }
+}
